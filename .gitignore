@@ -1,0 +1,7 @@
+venv/
+.env
+.faiss/
+__pycache__/
+*.pyc
+*.pyo
+data/
